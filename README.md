@@ -10,3 +10,6 @@ Use
 Contributing Code - Please Read!
 --------------------------------
 All code contributions and bug reports are much appreciated.  Please be sure to apply your fixes to the "dev" branch.
+
+
+Baseline is commit: fae432b17d899fe67f101662478a1ddcb5c428bd
